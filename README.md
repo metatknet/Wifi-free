@@ -3,13 +3,12 @@
 **A powerful tool to hack WiFi perform network testing on Kali Linux.**  
 ---
 
-## 📌 Features  
-✅ **Start & Stop wlan0 Monitor Mode**  
-✅ **Scan & Select WiFi Networks**  
-✅ **Deauthenticate All Devices from a Target WiFi**  
-✅ **Hacking Password**  
-✅ **Auto-Detect wlan0mon or wlan0**  
-✅ **Secure Network Testing on Kali Linux**  
+
+✅                       ✅ 
+✅                       ✅ 
+✅ **Hacking Password**  ✅ 
+✅                       ✅ 
+✅                       ✅ 
 
 ---
 
